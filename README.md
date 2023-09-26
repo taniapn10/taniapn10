@@ -7,8 +7,8 @@
 - 🌟 I'm constantly seeking new challenges and opportunities
 - 🌱 I’m currently learning Python
 - 💬 Ask me about my baking business and how data analytics helped me start it
-- 📫 How to reach me: tanian123@gmail.com
 - ⚡ Fun fact: I love baking, weight lifting and pilates
+- 📫 How to reach me: tanian123@gmail.com
 
  
 <!--
