@@ -10,7 +10,8 @@
 - ⚡ Fun fact: I love baking, weight lifting and pilates
 - 📫 How to reach me: tanian123@gmail.com
 
- 
+Looking for some visualizations? ➡️ My Tableau projects: https://public.tableau.com/app/profile/tania.nava/vizzes
+
 <!--
 **taniapn10/taniapn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
