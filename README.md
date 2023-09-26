@@ -1,4 +1,6 @@
-### 👋 Welcome to my GitHub! I'm Tania, a passionate Data Analyst with a focus on leveraging data to drive insights and make informed decisions.
+### 👋 Welcome to my GitHub! 
+
+👩🏽‍💻I'm Tania, a passionate Data Analyst with a focus on leveraging data to drive insights and make informed decisions.
 
 📚 This repository showcases a collection of my Data Analytics projects, which I've undertaken during my journey to obtain a Master of Science in Business Analytics (MSBA) degree. Some projects were born out of coursework, while others are independent certifications/projects.
 
