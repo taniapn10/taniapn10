@@ -7,7 +7,7 @@
 - 🌟 I'm constantly seeking new challenges and opportunities
 - 🌱 I’m currently learning Python
 - 💬 Ask me about my baking business and how data analytics helped me start it
-- ⚡ Fun fact: I love baking, weight lifting and pilates
+- ⚡ Fun fact: I love baking, weight lifting and trying new food
 - 📫 How to reach me: tanian123@gmail.com
 
 Looking for some visualizations? ➡️ My Tableau projects: https://public.tableau.com/app/profile/tania.nava/vizzes
